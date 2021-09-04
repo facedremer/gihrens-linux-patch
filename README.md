@@ -14,6 +14,6 @@ A simple bash script that renames image files included in the english translatio
 9. Add <i>alias gppsspp='path/to/modded/ppsspp'</i> to your .bashrc file.
 10. Run <i>$ gppsspp</i> and load up your patched ISO file.
 
-<b>VOILA!!</b> The translation should now work correctly. I added an alias for my modded ppsspp in my .bashrc file so I could run something like <i>$ gppsspp</i> to load it up. Feel free to contact me on here or email me at facedremer@gmail.com if you have any questions or concerns.
+<b>VOILA!!</b> The translation should now work correctly. Feel free to contact me on here or email me at facedremer@gmail.com if you have any questions or concerns.
 
 Note: location of ppsspp configuration files may vary.
