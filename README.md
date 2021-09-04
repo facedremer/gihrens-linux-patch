@@ -11,7 +11,7 @@ A simple bash script that renames image files included in the english translatio
 6. Follow the instructions in the english patch's README file to patch the game.
 7. Make <b>rename.sh</b> executable<br><i>$ chmod +x rename.sh</i><br />
 8. Run <b>rename.sh</b> with the path to the game's <b>TEXTURES</b> directory as an argument.<br><i>$ ./rename.sh ~/.config/ppsspp/PSP/TEXTURES/ULJS00178/</i><br />
-9. Add <i>alias gppsspp='path/to/modded/ppsspp'</i> to your .bashrc.
+9. Add <i>alias gppsspp='path/to/modded/ppsspp'</i> to your .bashrc file.
 10. Run <i>$ gppsspp</i> and load up your patched ISO file.
 
 <b>VOILA!!</b> The translation should now work correctly. I added an alias for my modded ppsspp in my .bashrc file so I could run something like <i>$ gppsspp</i> to load it up. Feel free to contact me on here or email me at facedremer@gmail.com if you have any questions or concerns.
